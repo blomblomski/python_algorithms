@@ -7,4 +7,4 @@ def bubble_sort(lst):
     return lst
 
 
-print(bubble_sort([25, 21, 22, 24, 23, 27, 26]))
+# print(bubble_sort([25, 21, 22, 24, 23, 27, 26]))
